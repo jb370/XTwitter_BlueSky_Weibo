@@ -1,1 +1,15 @@
 Data and Code for the X/Twitter BlueSky Weibo paper.
+
+Files:
+Chinese_BERT_model - are the config and tokenization files for the BERT model used, the model itself is too large to directly upload to GitHub
+
+Country_Counts - are the output files for the country counts over time for the two periods and both languages, this are the total counts for
+every country mentioned which the Top 10 and Top 5 analyses are based off.
+
+Country_Map_Codes - are the Jupyter notebooks for the code used for the various inital analyses in both English and Chinese in terms of map 
+making and overall sentiment analysis.
+
+Country_Sentiment - is the Jupyter notebook for calculating the sentiment associated with the top five countries 
+
+Data_anon - are the anonymous data files containing the posts from Weibo, X/Twitter, and BlueSky, they contain the sentiment of the posts, but 
+no information linking back to the user. 
