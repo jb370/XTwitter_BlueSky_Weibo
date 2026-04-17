@@ -1,0 +1,9 @@
+This is the code used to create the maps for the paper:
+
+Weibo_Analysis_Redux - Is the Weibo text data analyzed to create the maps and country counts used in the study.
+
+X_BlueSky_Analysis - Is the BlueSky and X/Twitter text data analyzed to create the maps and country counts, as well as the over all 
+sentiment charts with the RoBERTa model, and a few other analyses that I did not purpose such as most active posters and topic modeling.
+
+Chinese_RNN - Is this the file I did the sentiment analysis for Chinese testing in, it contains the code used to create the Chinese BERT 
+model used to analyze the sentiment. 
